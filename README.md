@@ -8,9 +8,14 @@ Login to the console.ng.bluemix.net and create a new set of authentication and e
 
 <img width="676"  src="https://cloud.githubusercontent.com/assets/14288989/19386011/8f1f7744-922f-11e6-8ca0-f10ff06adf49.png">
 
+This is the error that can show up - and if this happens one has to login to the IBM Bluemix IoT Watson platform http://console.ng.bluemix.net and create a new set of credentials.
+
 <img width="1155" src="https://cloud.githubusercontent.com/assets/14288989/19385935/3759bdee-922f-11e6-8e30-75db609fca74.png">
 
+Snapshot of the API keys that can be generated on the Bluemix Platform.
 <img width="916"  src="https://cloud.githubusercontent.com/assets/14288989/19386012/8f1fe5e4-922f-11e6-83b2-9b35aa8601f7.png">
+
+Enter the credentials into the app.js code of the bluemix application that was developed on the Evothings studio.
 
 <img width="454"  src="https://cloud.githubusercontent.com/assets/14288989/19386010/8f19c5ce-922f-11e6-9d08-2e817c83ff16.png">
 
